@@ -7,3 +7,5 @@ image: img/about-direct-sourcing.jpg
 This is the body of the post.
 
 ![](img/about-single-origin.jpg "Here are some beans.")
+
+That's an image above there.
